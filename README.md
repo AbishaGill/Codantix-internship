@@ -99,6 +99,5 @@ Fully Responsive
 - **TailwindCSS** (Styling and responsive design)
 - **JavaScript (ES6+)**
 - **Vite** (for fast development setup)
-- **Local Storage / State Management** (where needed)
 
 ---
